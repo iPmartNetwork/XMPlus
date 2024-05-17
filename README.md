@@ -35,7 +35,7 @@ cd /etc/XMPlus
 
 ### Onclick Install
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/XMPlus/install/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/XMPlus/install.sh)
 ```
 
 ## FRONTEND SERVER CONFIG
